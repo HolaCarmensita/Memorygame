@@ -4,7 +4,6 @@
 info about assignment: 
 
 Memory game
-Deadline: 2a December 17:00.
 
 Examiniationen för kursen Javascript del 1 är att skapa ett memoryspel i grupper om 3.
 
