@@ -1,5 +1,5 @@
-# memorygame
-js1 assignment memory 
+# js1 assignment memory 
+
 
 info about assignment: 
 
